@@ -1,9 +1,9 @@
-//Arrays(Ï‡ÒcË‚)
+Ôªø//Arrays(–º–∞—Åc–∏–≤)
 #include<iostream>
 using namespace std;
 using std::cout;
 using std::endl;
-#define ARRAYS
+//#define ARRAYS
 
 
 void main()
